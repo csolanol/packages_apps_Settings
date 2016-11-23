@@ -258,4 +258,8 @@
     <string name="night_mode_auto">Automatic</string>
     <string name="keywords_display_night_mode">dark theme night mode dim screen invert brightness</string>
 
+    <!-- Proximity wake -->
+    <string name="proximity_wake_title">Prevent accidental wake up</string>
+    <string name="proximity_wake_summary">Check the proximity sensor prior to waking up screen when pressing the power button</string>
+
 </resources>
